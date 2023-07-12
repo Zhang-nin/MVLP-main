@@ -6,3 +6,9 @@ pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 ```
  **Install other environments** 
+ ```
+pip install pandas
+pip install transformers
+pip install scikit-Learn
+pip install numpy
+```
