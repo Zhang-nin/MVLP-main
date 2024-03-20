@@ -13,3 +13,8 @@ pip install transformers
 pip install scikit-Learn
 pip install numpy
 ```
+ **Datasets** 
+```
+1.*[ELELMENT](https://drive.google.com/file/d/1dxMrnyXcED-85HCcQiA_d5rr8acwl6lp/view)*.
+2.*[Harm-C(Covid-19)](https://drive.google.com/file/d/1dxMrnyXcED-85HCcQiA_d5rr8acwl6lp/view)*.
+```
